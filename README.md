@@ -1,5 +1,5 @@
 # 🎒 ox_inventory — Custom Restyle
-
+![ox_inventory Preview](Screenshot.jpeg)
 A modern custom UI restyle of **ox_inventory**, designed to deliver a cleaner, more refined inventory experience while preserving the original inventory system and its core functionality.
 
 This project builds upon the original ox_inventory with restored QB-Core compatibility, additional quality-of-life features, optional item rarity indicators, and visual improvements.
